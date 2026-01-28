@@ -6,6 +6,7 @@ venv/
 .env
 .DS_Store
 reports.db
+Datasets/
 
 # Javascript
 node_modules/

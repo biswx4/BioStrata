@@ -1,6 +1,6 @@
 # BioStrata AI - Tumor Microenvironment Analysis Platform
 
-![BioStrata AI](frontend/public/vite.svg) *Note: Replace with actual screenshot*
+![BioStrata AI](frontend/public/dashboard-preview.png)
 
 ## Overview
 **BioStrata AI** is a clinical decision support system designed to analyze tumor microenvironment (TME) characteristics using patient gene expression data. It utilizes machine learning models to stratify patients into risk categories (Low, Moderate, High) and provides interpretable clinical insights.
