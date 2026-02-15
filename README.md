@@ -1,9 +1,9 @@
-# BioStrata AI - Tumor Microenvironment Analysis Platform
+# OncoRoute- Tumor Microenvironment Analysis Platform
 
 ![BioStrata AI](frontend/public/dashboard-preview.png)
 
 ## Overview
-**BioStrata AI** is a clinical decision support system designed to analyze tumor microenvironment (TME) characteristics using patient gene expression data. It utilizes machine learning models to stratify patients into risk categories (Low, Moderate, High) and provides interpretable clinical insights.
+**OncoRoute** is a clinical decision support system designed to analyze tumor microenvironment (TME) characteristics using patient gene expression data. It utilizes machine learning models to stratify patients into risk categories (Low, Moderate, High) and provides interpretable clinical insights.
 
 ## Features
 - **AI-Powered Analysis**: Predicts risk scores using a trained ML pipeline (Random Forest/Logistic Regression).
